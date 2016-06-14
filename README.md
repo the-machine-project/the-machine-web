@@ -8,3 +8,7 @@
 * Ruby 2.3.0p0
 * Rails 4.2.6
 * Google Chrome
+
+---
+
+This code is licensed under the MIT Open Source License. It is located [here](http://opensource.org/licenses/MIT). Thank you for visiting The Machine!
