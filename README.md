@@ -9,6 +9,24 @@
 * Rails 4.2.6
 * Google Chrome
 
+### Progress
+
+* Speech recognition and waveform
+* Asset lister animation
+
+### To-Do
+
+* Separate "windows"
+  * Speech window
+  * Video window
+  * Main message window
+  * Warning window
+  * Calculation window
+  * Terminal
+    * Using [JQuery Terminal Emulator plugin](http://terminal.jcubic.pl/)
+* [Echo Nest Remixer](https://github.com/algorithmic-music-exploration/amen)
+* Background for the machine
+
 ---
 
 This code is licensed under the MIT Open Source License. It is located [here](http://opensource.org/licenses/MIT). Thank you for visiting The Machine!
